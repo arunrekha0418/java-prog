@@ -8,7 +8,7 @@ class Ideone
 	public static void main (String[] args) throws java.lang.Exception
 	{
 		int num;
-		Scanner sacn=new Scanner(System.in);
+		Scanner scan=new Scanner(System.in);
 		num=sacn.nextInt();
 		{
 			if (num % 2==0)
